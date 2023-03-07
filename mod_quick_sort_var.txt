@@ -1,0 +1,320 @@
+Algorithm Modified quick sort: Execution time: 0.00048799999999998844, 
+                    Insertion sort limit: 8, Data size: 100
+
+
+
+Algorithm Modified quick sort: Execution time: 0.00043220000000002146, 
+                    Insertion sort limit: 8, Data size: 200
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0014524000000000203, 
+                    Insertion sort limit: 8, Data size: 300
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0012360000000000149, 
+                    Insertion sort limit: 8, Data size: 400
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0016429000000000027, 
+                    Insertion sort limit: 8, Data size: 500
+
+
+
+Algorithm Modified quick sort: Execution time: 0.001288499999999998, 
+                    Insertion sort limit: 8, Data size: 600
+
+
+
+Algorithm Modified quick sort: Execution time: 0.002083699999999994, 
+                    Insertion sort limit: 8, Data size: 700
+
+
+
+Algorithm Modified quick sort: Execution time: 0.001712199999999997, 
+                    Insertion sort limit: 8, Data size: 800
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0036164999999999947, 
+                    Insertion sort limit: 8, Data size: 900
+
+
+
+Algorithm Modified quick sort: Execution time: 0.002850599999999981, 
+                    Insertion sort limit: 8, Data size: 1000
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0005032999999999843, 
+                    Insertion sort limit: 32, Data size: 100
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0004919999999999924, 
+                    Insertion sort limit: 32, Data size: 200
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0007754000000000372, 
+                    Insertion sort limit: 32, Data size: 300
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0019692000000000043, 
+                    Insertion sort limit: 32, Data size: 400
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0027497999999999134, 
+                    Insertion sort limit: 32, Data size: 500
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0023290000000000255, 
+                    Insertion sort limit: 32, Data size: 600
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0024115999999999582, 
+                    Insertion sort limit: 32, Data size: 700
+
+
+
+Algorithm Modified quick sort: Execution time: 0.002925199999999961, 
+                    Insertion sort limit: 32, Data size: 800
+
+
+
+Algorithm Modified quick sort: Execution time: 0.00562180000000001, 
+                    Insertion sort limit: 32, Data size: 900
+
+
+
+Algorithm Modified quick sort: Execution time: 0.00591240000000004, 
+                    Insertion sort limit: 32, Data size: 1000
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0004956999999999878, 
+                    Insertion sort limit: 64, Data size: 100
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0009036000000000044, 
+                    Insertion sort limit: 64, Data size: 200
+
+
+
+Algorithm Modified quick sort: Execution time: 0.001358700000000046, 
+                    Insertion sort limit: 64, Data size: 300
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0015060000000000073, 
+                    Insertion sort limit: 64, Data size: 400
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0020185999999999815, 
+                    Insertion sort limit: 64, Data size: 500
+
+
+
+Algorithm Modified quick sort: Execution time: 0.002450500000000022, 
+                    Insertion sort limit: 64, Data size: 600
+
+
+
+Algorithm Modified quick sort: Execution time: 0.004364400000000046, 
+                    Insertion sort limit: 64, Data size: 700
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0041343999999999825, 
+                    Insertion sort limit: 64, Data size: 800
+
+
+
+Algorithm Modified quick sort: Execution time: 0.004426900000000011, 
+                    Insertion sort limit: 64, Data size: 900
+
+
+
+Algorithm Modified quick sort: Execution time: 0.00682970000000005, 
+                    Insertion sort limit: 64, Data size: 1000
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0006039999999999379, 
+                    Insertion sort limit: 1024, Data size: 100
+
+
+
+Algorithm Modified quick sort: Execution time: 0.00259049999999994, 
+                    Insertion sort limit: 1024, Data size: 200
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0057243000000000155, 
+                    Insertion sort limit: 1024, Data size: 300
+
+
+
+Algorithm Modified quick sort: Execution time: 0.011024099999999981, 
+                    Insertion sort limit: 1024, Data size: 400
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0196577, 
+                    Insertion sort limit: 1024, Data size: 500
+
+
+
+Algorithm Modified quick sort: Execution time: 0.02624700000000002, 
+                    Insertion sort limit: 1024, Data size: 600
+
+
+
+Algorithm Modified quick sort: Execution time: 0.03430230000000001, 
+                    Insertion sort limit: 1024, Data size: 700
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0447519999999999, 
+                    Insertion sort limit: 1024, Data size: 800
+
+
+
+Algorithm Modified quick sort: Execution time: 0.06605820000000007, 
+                    Insertion sort limit: 1024, Data size: 900
+
+
+
+Algorithm Modified quick sort: Execution time: 0.07596200000000009, 
+                    Insertion sort limit: 1024, Data size: 1000
+
+
+
+Algorithm Modified quick sort: Execution time: 0.0010305999999999926,Insertion sort limit: 10, Data size: 100
+
+Algorithm Modified quick sort: Execution time: 0.0010703999999996938,Insertion sort limit: 10, Data size: 200
+
+Algorithm Modified quick sort: Execution time: 0.002999299999999927,Insertion sort limit: 10, Data size: 300
+
+Algorithm Modified quick sort: Execution time: 0.0017260999999999527,Insertion sort limit: 10, Data size: 400
+
+Algorithm Modified quick sort: Execution time: 0.003173199999999987,Insertion sort limit: 10, Data size: 500
+
+Algorithm Modified quick sort: Execution time: 0.0031826000000001464,Insertion sort limit: 10, Data size: 600
+
+Algorithm Modified quick sort: Execution time: 0.0043663999999998815,Insertion sort limit: 10, Data size: 700
+
+Algorithm Modified quick sort: Execution time: 0.007725800000000227,Insertion sort limit: 10, Data size: 800
+
+Algorithm Modified quick sort: Execution time: 0.00834350000000006,Insertion sort limit: 10, Data size: 900
+
+Algorithm Modified quick sort: Execution time: 0.009275300000000097,Insertion sort limit: 10, Data size: 1000
+
+Algorithm Modified quick sort: Execution time: 0.0005145999999998097,Insertion sort limit: 20, Data size: 100
+
+Algorithm Modified quick sort: Execution time: 0.0016801000000001842,Insertion sort limit: 20, Data size: 200
+
+Algorithm Modified quick sort: Execution time: 0.002758000000000038,Insertion sort limit: 20, Data size: 300
+
+Algorithm Modified quick sort: Execution time: 0.003446499999999908,Insertion sort limit: 20, Data size: 400
+
+Algorithm Modified quick sort: Execution time: 0.00315960000000004,Insertion sort limit: 20, Data size: 500
+
+Algorithm Modified quick sort: Execution time: 0.006584799999999724,Insertion sort limit: 20, Data size: 600
+
+Algorithm Modified quick sort: Execution time: 0.004429899999999876,Insertion sort limit: 20, Data size: 700
+
+Algorithm Modified quick sort: Execution time: 0.005752900000000061,Insertion sort limit: 20, Data size: 800
+
+Algorithm Modified quick sort: Execution time: 0.002976900000000171,Insertion sort limit: 20, Data size: 900
+
+Algorithm Modified quick sort: Execution time: 0.005746300000000204,Insertion sort limit: 20, Data size: 1000
+
+Algorithm Modified quick sort: Execution time: 0.000721099999999808,Insertion sort limit: 30, Data size: 100
+
+Algorithm Modified quick sort: Execution time: 0.001492800000000294,Insertion sort limit: 30, Data size: 200
+
+Algorithm Modified quick sort: Execution time: 0.001289100000000154,Insertion sort limit: 30, Data size: 300
+
+Algorithm Modified quick sort: Execution time: 0.0041261000000005765,Insertion sort limit: 30, Data size: 400
+
+Algorithm Modified quick sort: Execution time: 0.002347300000000274,Insertion sort limit: 30, Data size: 500
+
+Algorithm Modified quick sort: Execution time: 0.0028354000000003765,Insertion sort limit: 30, Data size: 600
+
+Algorithm Modified quick sort: Execution time: 0.00823779999999985,Insertion sort limit: 30, Data size: 700
+
+Algorithm Modified quick sort: Execution time: 0.010361699999999807,Insertion sort limit: 30, Data size: 800
+
+Algorithm Modified quick sort: Execution time: 0.0055016000000005505,Insertion sort limit: 30, Data size: 900
+
+Algorithm Modified quick sort: Execution time: 0.006557299999999877,Insertion sort limit: 30, Data size: 1000
+
+Algorithm Modified quick sort: Execution time: 0.0014079999999996318,Insertion sort limit: 40, Data size: 100
+
+Algorithm Modified quick sort: Execution time: 0.004113699999999554,Insertion sort limit: 40, Data size: 200
+
+Algorithm Modified quick sort: Execution time: 0.002737900000000515,Insertion sort limit: 40, Data size: 300
+
+Algorithm Modified quick sort: Execution time: 0.0041104000000000696,Insertion sort limit: 40, Data size: 400
+
+Algorithm Modified quick sort: Execution time: 0.003554700000000466,Insertion sort limit: 40, Data size: 500
+
+Algorithm Modified quick sort: Execution time: 0.00486460000000033,Insertion sort limit: 40, Data size: 600
+
+Algorithm Modified quick sort: Execution time: 0.006930199999999331,Insertion sort limit: 40, Data size: 700
+
+Algorithm Modified quick sort: Execution time: 0.012775600000000331,Insertion sort limit: 40, Data size: 800
+
+Algorithm Modified quick sort: Execution time: 0.00968049999999998,Insertion sort limit: 40, Data size: 900
+
+Algorithm Modified quick sort: Execution time: 0.007860100000000259,Insertion sort limit: 40, Data size: 1000
+
+Algorithm Modified quick sort: Execution time: 0.0005395000000003591,Insertion sort limit: 50, Data size: 100
+
+Algorithm Modified quick sort: Execution time: 0.001337399999999711,Insertion sort limit: 50, Data size: 200
+
+Algorithm Modified quick sort: Execution time: 0.0039647999999994354,Insertion sort limit: 50, Data size: 300
+
+Algorithm Modified quick sort: Execution time: 0.0036733999999993827,Insertion sort limit: 50, Data size: 400
+
+Algorithm Modified quick sort: Execution time: 0.004661599999999488,Insertion sort limit: 50, Data size: 500
+
+Algorithm Modified quick sort: Execution time: 0.004903900000000405,Insertion sort limit: 50, Data size: 600
+
+Algorithm Modified quick sort: Execution time: 0.006907799999999575,Insertion sort limit: 50, Data size: 700
+
+Algorithm Modified quick sort: Execution time: 0.011457599999999957,Insertion sort limit: 50, Data size: 800
+
+Algorithm Modified quick sort: Execution time: 0.01209669999999985,Insertion sort limit: 50, Data size: 900
+
+Algorithm Modified quick sort: Execution time: 0.019439900000000065,Insertion sort limit: 50, Data size: 1000
+
+Algorithm Modified quick sort: Execution time: 0.0017202000000002826,Insertion sort limit: 60, Data size: 100
+
+Algorithm Modified quick sort: Execution time: 0.0030150999999998263,Insertion sort limit: 60, Data size: 200
+
+Algorithm Modified quick sort: Execution time: 0.004237100000000105,Insertion sort limit: 60, Data size: 300
+
+Algorithm Modified quick sort: Execution time: 0.0033271999999993085,Insertion sort limit: 60, Data size: 400
+
+Algorithm Modified quick sort: Execution time: 0.0048320000000003915,Insertion sort limit: 60, Data size: 500
+
+Algorithm Modified quick sort: Execution time: 0.021144800000000075,Insertion sort limit: 60, Data size: 600
+
+Algorithm Modified quick sort: Execution time: 0.004379099999999525,Insertion sort limit: 60, Data size: 700
+
+Algorithm Modified quick sort: Execution time: 0.009228099999999628,Insertion sort limit: 60, Data size: 800
+
+Algorithm Modified quick sort: Execution time: 0.009685499999999791,Insertion sort limit: 60, Data size: 900
+
+Algorithm Modified quick sort: Execution time: 0.005942799999999693,Insertion sort limit: 60, Data size: 1000
+

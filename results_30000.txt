@@ -1,0 +1,66 @@
+Number of elements in array: 5000
+Algorithm Bubble sort: Execution time: 3.4632303
+Algorithm Bucket sort: Execution time: 0.005788799999999927
+Algorithm Counting sort: Execution time: 0.004394000000000009
+Algorithm Heap sort: Execution time: 0.04441359999999994
+Algorithm Insertion sort: Execution time: 2.6668431000000004
+Algorithm Merge sort: Execution time: 0.030593900000000396
+Algorithm Quick sort: Execution time: 0.020302500000000556
+Algorithm Radix sort: Execution time: 8.4832346
+Algorithm Modified Quick sort: Execution time: 0.029205599999999166
+
+Number of elements in array: 10000
+Algorithm Bubble sort: Execution time: 18.3300888
+Algorithm Bucket sort: Execution time: 0.023660599999999476
+Algorithm Counting sort: Execution time: 0.03187489999999826
+Algorithm Heap sort: Execution time: 0.16568989999999673
+Algorithm Insertion sort: Execution time: 15.8331765
+Algorithm Merge sort: Execution time: 0.10646179999999816
+Algorithm Quick sort: Execution time: 0.10019400000000189
+Algorithm Radix sort: Execution time: 25.755710099999995
+Algorithm Modified Quick sort: Execution time: 0.04288540000000296
+
+Number of elements in array: 15000
+Algorithm Bubble sort: Execution time: 48.3551688
+Algorithm Bucket sort: Execution time: 0.036142699999999195
+Algorithm Counting sort: Execution time: 0.046107499999990864
+Algorithm Heap sort: Execution time: 0.2663491999999934
+Algorithm Insertion sort: Execution time: 37.7318398
+Algorithm Merge sort: Execution time: 0.16718190000000277
+Algorithm Quick sort: Execution time: 0.1253494000000046
+Algorithm Radix sort: Execution time: 37.347622900000005
+Algorithm Modified Quick sort: Execution time: 0.10370940000001383
+
+Number of elements in array: 20000
+Algorithm Bubble sort: Execution time: 79.95917119999999
+Algorithm Bucket sort: Execution time: 0.040504100000021026
+Algorithm Counting sort: Execution time: 0.064296899999988
+Algorithm Heap sort: Execution time: 0.36430709999996225
+Algorithm Insertion sort: Execution time: 49.61019959999999
+Algorithm Merge sort: Execution time: 0.11450650000000451
+Algorithm Quick sort: Execution time: 0.08124780000002829
+Algorithm Radix sort: Execution time: 30.3756391
+Algorithm Modified Quick sort: Execution time: 0.07784889999999223
+
+Number of elements in array: 25000
+Algorithm Bubble sort: Execution time: 79.91155179999998
+Algorithm Bucket sort: Execution time: 0.03319019999997863
+Algorithm Counting sort: Execution time: 0.023690899999962767
+Algorithm Heap sort: Execution time: 0.2454379000000131
+Algorithm Insertion sort: Execution time: 62.385411799999986
+Algorithm Merge sort: Execution time: 0.14026699999999437
+Algorithm Quick sort: Execution time: 0.10116640000001098
+Algorithm Radix sort: Execution time: 38.2753323
+Algorithm Modified Quick sort: Execution time: 0.1015388000000712
+
+Number of elements in array: 30000
+Algorithm Bubble sort: Execution time: 119.87919849999992
+Algorithm Bucket sort: Execution time: 0.03264539999997851
+Algorithm Counting sort: Execution time: 0.032515300000000025
+Algorithm Heap sort: Execution time: 0.28758719999996174
+Algorithm Insertion sort: Execution time: 90.28915210000002
+Algorithm Merge sort: Execution time: 0.17105739999999514
+Algorithm Quick sort: Execution time: 0.1263926999999967
+Algorithm Radix sort: Execution time: 49.86870329999999
+Algorithm Modified Quick sort: Execution time: 0.1711669000000029
+
